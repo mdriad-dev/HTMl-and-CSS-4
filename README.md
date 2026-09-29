@@ -1,20 +1,21 @@
 # HTML and CSS Practice 4
 
-A collection of HTML and CSS practice work focused on strengthening frontend development fundamentals through hands on exercises.
+A collection of frontend practice exercises focused on strengthening HTML and CSS skills through hands on implementation.
 
-## What I Practiced
+## Skills Practiced
 
-• HTML structure
-• CSS styling
-• Layout techniques
-• Visual presentation and spacing
-• Organizing reusable practice code
+• HTML structure  
+• CSS styling  
+• Layout techniques  
+• Spacing and alignment  
+• Visual presentation  
+• Organizing frontend code
 
 ## Technologies
 
 HTML5  
 CSS3
 
-## Purpose
+## Learning Outcome
 
-This repository is part of my web development learning journey. Each exercise helps build stronger frontend fundamentals and prepares me for larger practical projects.
+This repository is part of my frontend development learning history and demonstrates continued practice before moving toward larger responsive web projects.
